@@ -9,16 +9,15 @@ Le conseil des arts du Canada, le conseil des arts et des lettres du Québec, le
 
 ## Les dates importantes et lieux d'expositions
 
-En 2010: le premier prototype entièrement fonctionnel d'un vessel est créé ainsi qu'une présentation au festival Nocturne Halifax.
-En 2015: une exposition à Montréal au Eastern Bloc ainsi qu'une exposition à l'Ososphère à Strasbourg en France.
-En 2016: au festival Montréal en Lumière, durant la nuit blanche à l'hôtel de ville.
-En 2018: à ROBOTANICA: The New Wilderness, Amsterdam, aux Pays-Bas ainsi qu'à la Gaîté Lyrique à l'exposition capitaine futur et la supernature à Paris, France.
+En 2010: le premier prototype entièrement fonctionnel d'un vessel est créé ainsi qu'une présentation au festival Nocturne Halifax. <br>
+En 2015: une exposition à Montréal au Eastern Bloc ainsi qu'une exposition à l'Ososphère à Strasbourg en France. <br>
+En 2016: au festival Montréal en Lumière, durant la nuit blanche à l'hôtel de ville. <br>
+En 2018: à ROBOTANICA: The New Wilderness, Amsterdam, aux Pays-Bas ainsi qu'à la Gaîté Lyrique à l'exposition capitaine futur et la supernature à Paris, France. <br>
 En 2024: au Village Numérique de Mutek à Montréal.
 
 ## L'oeuvre
 
-Vessels est une installation qui comprend plusieurs petits robots aquatiques avec leurs propres personnalités qui communiquent entre eux et analyse la qualité de leur environnement pour développer La façon dont ils agissent
-en groupe.
+Vessels est une installation qui comprend plusieurs petits robots aquatiques avec leurs propres personnalités qui communiquent entre eux et analyse la qualité de leur environnement pour développer La façon dont ils agissent en groupe.
 
 (Description de l'œuvre)
 
