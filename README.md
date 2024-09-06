@@ -1,5 +1,11 @@
-# Présentation de Vessels
-modèle de page docsify pour une publication via page sans actions 
+# Vessels
+*Par Sofian Audry, Stephen Kelly et Samuel St-Aubin en collaboration avec Adam Kelly*
+
+**En partenariat avec:**
+Le Centre for Art Tapes et Perte de Signal
+
+**Sponsorisé par:**
+Le conseil des arts du Canada, le conseil des arts et des lettres du Québec, le ministère de la Culture, du patrimoine et du tourisme de la Nouvelle-Écosse et la municipalité régionale d'Halifax.
 
 
 ## Qui ?
