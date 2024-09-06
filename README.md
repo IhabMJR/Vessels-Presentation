@@ -2,34 +2,24 @@
 *Par Sofian Audry, Stephen Kelly et Samuel St-Aubin en collaboration avec Adam Kelly*
 
 **En partenariat avec:**
-Le Centre for Art Tapes et Perte de Signal
+Le Centre for Art Tapes et Perte de Signal.
 
 **Sponsorisé par:**
 Le conseil des arts du Canada, le conseil des arts et des lettres du Québec, le ministère de la Culture, du patrimoine et du tourisme de la Nouvelle-Écosse et la municipalité régionale d'Halifax.
 
+## Les dates importantes et lieux d'expositions
 
-## Qui ?
-(Auteur, Équipe)
+En 2010: le premier prototype entièrement fonctionnel d'un vessel est créé ainsi qu'une présentation au festival Nocturne Halifax.
+En 2015: une exposition à Montréal au Eastern Bloc ainsi qu'une exposition à l'Ososphère à Strasbourg en France.
+En 2016: au festival Montréal en Lumière, durant la nuit blanche à l'hôtel de ville.
+En 2018: à ROBOTANICA: The New Wilderness, Amsterdam, aux Pays-Bas ainsi qu'à la Gaîté Lyrique à l'exposition capitaine futur et la supernature à Paris, France.
+En 2024: au Village Numérique de Mutek à Montréal.
 
-Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
-Équipe de production : Si l'œuvre a été réalisée par une équipe, nommez les membres clés et leur rôle (réalisateur, compositeur, programmeur, etc.).
-Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
+## L'oeuvre
 
-## Quand ?
-(Date de création et de présentation)
+Vessels est une installation qui comprend plusieurs petits robots aquatiques avec leurs propres personnalités qui communiquent entre eux et analyse la qualité de leur environnement pour développer La façon dont ils agissent
+en groupe.
 
- Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
-Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
-Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
-
-## Où ?
-(Contexte de présentation)
-
-Lieu de présentation initiale : Mentionnez l'endroit où l'œuvre a été présentée pour la première fois (galerie, musée, festival, en ligne, etc.).
-Contexte géographique et culturel : Donnez des détails sur le cadre culturel ou géographique qui a influencé la présentation de l'œuvre. Par exemple, si l'œuvre a été conçue pour un public spécifique ou si elle reflète des aspects culturels particuliers.
-Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs endroits, énumérez ces lieux avec les dates correspondantes.
-
-## Quoi ?
 (Description de l'œuvre)
 
 Description générale : Donnez une vue d'ensemble de l'œuvre. Qu'est-ce que c'est ? (installation, performance, vidéo, réalité virtuelle, etc.)
