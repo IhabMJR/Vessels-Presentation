@@ -26,7 +26,7 @@ Vessels est une installation qui comprend plusieurs petits robots aquatiques ave
 Les robots agissent comme des créatures sociales avec lesquelles les personnes de tous les ages peuvent sympathiser, mais le fait qu'ils vivent dans l'eau, un environnement qui peut entraîner leur destruction, reflète nos insécurités au sein de notre monde.
 <br>
 <br>
-Des capteurs de proximité infrarouge sont placés aux alentours des robots pour qu'ils puissent interagir entre eux. Ils peuvent naviguer dans leur environnement grâce à des pompes qui les propulsent. Des lumières DEL permettent au robot de montrer leurs personnalités et réactions. 10 à 50 robots sont utilisés par exposition.
+Des capteurs de proximité infrarouge sont placés aux alentours des robots pour qu'ils puissent interagir entre eux. Ils peuvent naviguer dans leur environnement grâce à des pompes qui les propulsent dans l'eau. Des lumières DEL permettent au robot de montrer leurs personnalités et réactions, le tout est contrôlé par un microcontrôleur. 10 à 50 robots sont utilisés par exposition.
 <br>
 <br>
 ![alt text](image-1.png)
