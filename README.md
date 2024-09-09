@@ -20,7 +20,7 @@ Le conseil des arts du Canada, le conseil des arts et des lettres du Québec, le
 ![alt text](image.png)
 <br>
 <br>
-Vessels est une installation qui comprend plusieurs petits robots aquatiques avec leurs propres personnalités qui communiquent entre eux pour développer La façon dont ils agissent. Les aspects qui peuvent affecter leurs personnalités sont la température, la qualité de l'eau et de l'air, la pression atmosphérique, la lumiere et le son ainsi que le comportement des autres robots.
+Vessels est une installation qui comprend plusieurs petits robots aquatiques avec leurs propres personnalités qui communiquent entre eux pour développer La façon dont ils agissent. Les aspects qui peuvent affecter leurs personnalités sont la température, la qualité de l'eau et de l'air, la pression atmosphérique, la lumiere, le son ainsi que le comportement des autres robots.
 <br>
 <br>
 Les robots agissent comme des créatures sociales avec lesquelles les personnes de tous les ages peuvent sympathiser, mais le fait qu'ils vivent dans l'eau, un environnement qui peut entraîner leur destruction, reflète nos insécurités au sein de notre monde.
